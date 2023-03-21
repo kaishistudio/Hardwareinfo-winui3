@@ -4,4 +4,4 @@
 商店地址：
 https://www.microsoft.com/store/productId/9PBP8DK6PTNG
 
-目前新的更新已提交，商店版本1.1.3
+目前新的更新已提交，商店版本1.1.6
